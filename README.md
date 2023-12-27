@@ -13,6 +13,6 @@ I'm Cameron, a mainly frontend dev from the East Midlands.
 [Portfolio](https://cameronroberts.uk/)
 
 
-<p align="center">
+<div align="center">
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=cameronroberts00&show_icons=true&theme=dark)
-</p>
+</div>
