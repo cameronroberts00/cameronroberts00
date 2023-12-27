@@ -2,7 +2,7 @@
 
 I'm Cameron, a mainly frontend dev from the East Midlands.
 
-🌱 I’m currently learning React Native.
+🌱 I’m currently learning React Native.&nbsp;
 
 🚀 Main skills include:
 <div>
@@ -17,9 +17,9 @@ I'm Cameron, a mainly frontend dev from the East Midlands.
 </div>
 
 🔗 Links:
-[Portfolio](https://cameronroberts.uk/)
+[Portfolio](https://cameronroberts.uk/)&nbsp;
 
 
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=cameronroberts00&show_icons=true&theme=dark)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=cameronroberts00&show_icons=true&theme=dark)&nbsp;
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=cameronroberts00&theme=dark&background=000000)](https://git.io/streak-stats)
