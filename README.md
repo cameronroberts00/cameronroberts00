@@ -1,16 +1,17 @@
-### Hi there 👋
+# Hello, World! 👋
 
-<!--
-**cameronroberts00/cameronroberts00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Cameron, a mainly frontend dev from the East Midlands.
 
-Here are some ideas to get you started:
+🌱 I’m currently learning React Native.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Main skills include:
+- React
+- Next
+- Vue
+
+🔗 Links:
+[![Portfolio]](https://cameronroberts.uk/)
+
+
+📊 Stats:
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=cameronroberts00&show_icons=true&theme=dark)
