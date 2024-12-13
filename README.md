@@ -1,10 +1,7 @@
 # Hello, World! 👋
 
-I'm Cameron, a mainly frontend dev from the East Midlands.
+(Mostly) frontend dev from the East Midlands.
 
-🌱 I’m currently learning React Native.&nbsp;
-
-🚀 Main skills include:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
