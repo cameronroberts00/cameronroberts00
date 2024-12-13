@@ -15,9 +15,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" title="C sharp" alt="C sharp" width="40" height="40"/>      
 </div>
 
-🔗 Links:
-[Portfolio](https://cameronroberts.uk/)&nbsp;
 
 
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=cameronroberts00&show_icons=true&theme=dark)&nbsp;
+
+
+
+🔗 Links:
+[Portfolio](https://cameronroberts.uk/)&nbsp;
